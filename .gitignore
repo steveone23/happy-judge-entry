@@ -1,0 +1,6 @@
+# Python caches
+__pycache__/
+*.py[cod]
+
+# Local assistant notes
+CLAUDE.md
