@@ -9,9 +9,15 @@ is a fixed file, every run writes exactly the same bytes.
 
 ## The picture
 
-A photographed handwritten note from a six-year-old, addressed to the AI
-judge: "you can't pet dogs. so i pet biscuit 100 times for you. i counted."
-It lies next to Biscuit, a golden puppy getting a belly rub, with crayon
+Biscuit, a golden puppy, lies on his back on a rug, eyes closed in a big
+grin, getting a belly rub from a child's hand. Next to him is a handwritten
+note to the AI judge:
+
+> you see dogs all day but you never get to pet one. so i pet biscuit 100
+> times for you. i counted. love, leo (6). p.s. he licked me back. those are
+> for you too.
+
+Below the note are a small crayon robot judge in a curly wig and crayon
 tally marks counting the pets.
 
 The image was generated with an AI image model and is stored in the
